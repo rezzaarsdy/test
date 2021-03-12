@@ -1,2 +1,7 @@
 Reza
+<<<<<<< HEAD
 edit di repo atau pc
+=======
+
+edit di remote
+>>>>>>> 2062b630fa25c233b553a00b3153fc094703978f
